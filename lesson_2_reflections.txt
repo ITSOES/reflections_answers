@@ -22,3 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 I had a lot of difficulty merging the two, and I blame some inexplicable changes that were made to the coins branch after this exercise was created.  I probably learned things that I should've learned later on in this lesson.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git might mess up, but having it automated can also prevent human error.
