@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing my repository sets up my git for the first time.  This is so git knows what is being commited to one project.
+
