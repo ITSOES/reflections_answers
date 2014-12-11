@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 It makes all branches obvious.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+I had a lot of difficulty merging the two, and I blame some inexplicable changes that were made to the coins branch after this exercise was created.  I probably learned things that I should've learned later on in this lesson.
+
