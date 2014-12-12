@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would use Dropbox.  It has been fairly easy to send files and changes automatically.  The merit of doing it with GitHub is the ability to branch away and merge later.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
