@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in a separate branch while master maintains a working version of my project means I can go ahead and break the project on the new branch without affecting what works.  The only bad thing doing it that way is the hassle merging the branches later, especislly if the master has new commits.
